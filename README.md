@@ -1,6 +1,7 @@
 <snippet>
   <content>
-    # Hello World
-    My first iOS Hello World application in Swift
-  </content>
+# Hello World
+My first iOS Hello World app in Swift
+</content>
+  
 </snippet>
